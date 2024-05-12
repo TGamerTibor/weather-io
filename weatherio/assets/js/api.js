@@ -2,7 +2,7 @@
 
 'use strict';
 
-const api_key = "431047b1c212722f6123771b69c8db13";
+const api_key = "49a6632596b34d606fbe4a5e671fae7c";
 
 /**
  * Fetch data from server
