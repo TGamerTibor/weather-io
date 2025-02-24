@@ -16,8 +16,8 @@
 
 ### Demo Desktop Screeshot
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![WeatherIO Desktop Demo](./readme-images/Desktop.png "Desktop Demo")
 
 ### Demo Mobile Screeshot
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![WeatherIO Mobile Demo](./readme-images/mobile.png "mobile Demo")
