@@ -20,4 +20,4 @@
 
 ### Demo Mobile Screeshot:
 
-<div align="center">![WeatherIO Mobile Demo](./readme-images/mobile.png "mobile Demo")</div>
+![WeatherIO Mobile Demo](./readme-images/mobile.png "mobile Demo") 
