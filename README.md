@@ -14,10 +14,10 @@
 
 <br />
 
-### Demo Desktop Screeshot
+### Demo Desktop Screeshot:
 
 ![WeatherIO Desktop Demo](./readme-images/Desktop.png "Desktop Demo")
 
-### Demo Mobile Screeshot
+### Demo Mobile Screeshot:
 
-![WeatherIO Mobile Demo](./readme-images/mobile.png "mobile Demo")
+<div align="center">![WeatherIO Mobile Demo](./readme-images/mobile.png "mobile Demo")</div>
