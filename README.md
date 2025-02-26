@@ -6,7 +6,7 @@
 
   <h2 align="center">WeatherIO - A Weather checking website ☀️</h2>
 
-  WeatherIO is a fully responsive weather checing website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  WeatherIO is a fully responsive weather checking website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://weather-io-pink.vercel.app/"><strong>➥ Live Demo</strong></a>
 
